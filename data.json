@@ -1,0 +1,307 @@
+[
+  {
+    "id": 1,
+    "isNew": true,
+    "isGuaranteedDeparture": true,
+    "hasEarlyBookingDiscount": false,
+    "days": 3,
+    "price": 550,
+    "country": "Nederland",
+    "type": "gravelbike",
+    "title": "Dwars door de Veluwe",
+    "description": [
+      "prachtige gravel wegen dicht bij huis",
+      "comfortabele hotels",
+      "(te kort) lang weekend weg"
+    ],
+    "departureDate": [
+      "29 Mei '25"
+    ],
+    "availability": "beschikbaar",
+    "image": "https://staging.cyclotrack.be/wp-content/uploads/2025/02/dji_fly_20230801_152748_524_1690896784376_photo_optimized-1024x576.jpeg",
+    "comfort": "Comfort",
+    "bikingLevel": "Gematigd",
+    "technicalBikingLevel": "Sportief"
+  },
+  {
+    "id": 2,
+    "isNew": true,
+    "isGuaranteedDeparture": true,
+    "hasEarlyBookingDiscount": true,
+    "days": 8,
+    "originalPrice": 1650,
+    "discountedPrice": 1568,
+    "country": "Italië",
+    "type": "mountainbike",
+    "title": "Strade Militare",
+    "description": [
+      "doorgaande mountainbiketocht in het hooggebergte",
+      "afwisselend berghutten en comfortabele hotels",
+      "mooie (meestal) niet technische wegen"
+    ],
+    "departureDate": [
+      "05 Jul '25"
+    ],
+    "availability": "beschikbaar",
+    "image": "https://staging.cyclotrack.be/wp-content/uploads/2025/02/Tappa1_ViadeiCannoni_1-1024x661.jpg",
+    "comfort": "Basic",
+    "bikingLevel": "Uitdagend",
+    "technicalBikingLevel": "Gematigd"
+  },
+  {
+    "id": 3,
+    "isNew": true,
+    "isGuaranteedDeparture": true,
+    "hasEarlyBookingDiscount": true,
+    "days": 16,
+    "originalPrice": 4395,
+    "discountedPrice": 4175,
+    "country": "Colombia",
+    "type": "mountainbike",
+    "title": "Ruta de Café",
+    "description": [
+      "mountainbikereis in de koffieregio",
+      "de cera palmen in de Samaria vallei",
+      "comfortabele en authentieke verblijven"
+    ],
+    "departureDate": [
+      "19 Jul '25"
+    ],
+    "availability": "beschikbaar",
+    "image": "https://staging.cyclotrack.be/wp-content/uploads/2025/02/20240913-IMG_20240913_131045-1024x462.jpg",
+    "comfort": "Comfort",
+    "bikingLevel": "Gematigd",
+    "technicalBikingLevel": "Gematigd"
+  },
+  {
+    "id": 4,
+    "isNew": true,
+    "isGuaranteedDeparture": false,
+    "hasEarlyBookingDiscount": true,
+    "days": 4,
+    "originalPrice": 745,
+    "discountedPrice": 708,
+    "country": "Duitsland",
+    "type": "mountainbike",
+    "title": "Eifel en Rijn",
+    "description": [
+      "lang weekend op de fiets",
+      "mountainbiken in diepe Duitse bossen",
+      "comfortabele hotels en lekker eten"
+    ],
+    "departureDate": [
+      "14 Aug '25"
+    ],
+    "availability": "beschikbaar",
+    "image": "https://staging.cyclotrack.be/wp-content/uploads/2025/02/IMG_6897-1024x768.jpeg",
+    "comfort": "Comfort",
+    "bikingLevel": "Gematigd",
+    "technicalBikingLevel": "Gematigd"
+  },
+  {
+    "id": 5,
+    "isGuaranteedDeparture": true,
+    "hasEarlyBookingDiscount": false,
+    "days": 7,
+    "price": 3200,
+    "country": "Rwanda",
+    "type": "mountainbike",
+    "title": "WK Rwanda",
+    "description": [
+      "WK wielrennen van op de eerste rij",
+      "fietsen van Kigali naar Kivu",
+      "ingekorte editie met comfortabele verblijven"
+    ],
+    "departureDate": [
+      "26 Sep '25"
+    ],
+    "availability": "gegarandeerd",
+    "image": "https://staging.cyclotrack.be/wp-content/uploads/2025/02/2H6A0460-1-1-1024x683.jpg",
+    "comfort": "Comfort",
+    "bikingLevel": "Sportief",
+    "technicalBikingLevel": "Gematigd"
+  },
+  {
+    "id": 6,
+    "isGuaranteedDeparture": true,
+    "hasEarlyBookingDiscount": true,
+    "days": 10,
+    "originalPrice": 5000,
+    "discountedPrice": 4500,
+    "country": "Turkije",
+    "type": "racefiets",
+    "title": "Kloven van het Taurusgebergte",
+    "description": [
+      "racefietstroute in landelijk Turkije",
+      "weekje weg in de herfstvakantie",
+      "natuurlijk en historisch schoon op kleine uitstapjes"
+    ],
+    "departureDate": [
+      "05 Sep '25",
+      "22 Feb '25"
+    ],
+    "availability": "beschikbaar",
+    "image": "https://staging.cyclotrack.be/wp-content/uploads/2025/02/IMG_4870-768x1024.jpeg",
+    "comfort": "Comfort",
+    "bikingLevel": "Gematigd",
+    "technicalBikingLevel": "Sportief"
+  },
+  {
+    "id": 7,
+    "isGuaranteedDeparture": false,
+    "hasEarlyBookingDiscount": false,
+    "days": 5,
+    "price": 2700,
+    "country": "Oeganda",
+    "type": "gravelbike",
+    "title": "Tour of Karamoja",
+    "description": [
+      "fietsevenement in internationale groep",
+      "gevarieerde ritten in off the beaten track Afrika",
+      "bike safari in Kidepo valley national park"
+    ],
+    "departureDate": [
+      "12 Oct '25"
+    ],
+    "availability": "beschikbaar",
+    "image": "https://staging.cyclotrack.be/wp-content/uploads/2025/02/Afrika-1024x672.jpg",
+    "technicalBikingLevel": "Gemakkelijk"
+  },
+  {
+    "id": 8,
+    "isGuaranteedDeparture": false,
+    "hasEarlyBookingDiscount": true,
+    "days": 8,
+    "originalPrice": 2595,
+    "discountedPrice": 2465,
+    "country": "Argentinië",
+    "type": "roadbike",
+    "title": "Het Wilde Westen",
+    "description": [
+      "fietsen over hoogvlaktes en naar de jungle",
+      "de mooistelandschappen van Argentinië",
+      "proeven van Buenos Aires"
+    ],
+    "departureDate": [
+      "19 Okt '25"
+    ],
+    "availability": "beschikbaar",
+    "image": "https://staging.cyclotrack.be/wp-content/uploads/2025/01/Day-7-1-1024x683.jpg",
+    "technicalBikingLevel": "Sportief"
+  },
+  {
+    "id": 9,
+    "isGuaranteedDeparture": false,
+    "hasEarlyBookingDiscount": false,
+    "days": 13,
+    "price": 2695,
+    "country": "Thailand",
+    "type": "gravelbike",
+    "title": "Gravelen van Bangkok naar Saigon",
+    "description": [
+      "doorkruis drie landen per gravelbike",
+      "bezoeken aan Angkor, Phnom Penh en de Mekong Delta",
+      "warm weer en lekker eten"
+    ],
+    "departureDate": [
+      "19 Jan '25"
+    ],
+    "availability": "beschikbaar",
+    "image": "https://staging.cyclotrack.be/wp-content/uploads/2025/01/IMG_3801-1024x768.jpeg",
+    "comfort": "Exclusief",
+    "bikingLevel": "Uitdagend",
+    "technicalBikingLevel": "Gemakkelijk"
+  },
+  {
+    "id": 10,
+    "isGuaranteedDeparture": true,
+    "hasEarlyBookingDiscount": false,
+    "days": 5,
+    "price": 1500,
+    "country": "Marokko",
+    "type": "mountainbike",
+    "title": "Van de Atlas naar de Sahara",
+    "description": [
+      "milde ritten op een zeer gevarieerde route",
+      "berber dorpen, kasba's en kamelen",
+      "comfortabele verblijven en tijd om te chillen"
+    ],
+    "departureDate": [
+      "09 Mrt '25"
+    ],
+    "availability": "volzet",
+    "image": "https://staging.cyclotrack.be/wp-content/uploads/2025/02/IMG_4385-819x1024.jpeg",
+    "comfort": "Comfort",
+    "bikingLevel": "Sportief",
+    "technicalBikingLevel": "Sportief"
+  },
+  {
+    "id": 11,
+    "isGuaranteedDeparture": false,
+    "hasEarlyBookingDiscount": true,
+    "days": 13,
+    "price": 3600,
+    "country": "Sri Lanka",
+    "type": "gravelbike",
+    "title": "Gravelavontuur langs tempels, thee en olifanten",
+    "description": [
+      "actieve kennismaking met Sri Lanka",
+      "mooie en comfortabele hotels",
+      "afsluiten met safari en strand"
+    ],
+    "departureDate": [
+      "10 Jul '25"
+    ],
+    "availability": "beschikbaar",
+    "image": "https://staging.cyclotrack.be/wp-content/uploads/2025/02/IMG_0635-1-1024x768.jpeg",
+    "comfort": "Exclusief",
+    "bikingLevel": "Uitdagend",
+    "technicalBikingLevel": "Sportief"
+  },
+  {
+    "id": 12,
+    "isGuaranteedDeparture": false,
+    "hasEarlyBookingDiscount": true,
+    "days": 13,
+    "price": 3600,
+    "country": "ussssssssssssssssssssss",
+    "type": "gravelbike",
+    "title": "Gravelavontuur langs tempels, thee en olifanten",
+    "description": [
+      "actieve kennismaking met Sri Lanka",
+      "mooie en comfortabele hotels",
+      "afsluiten met safari en strand"
+    ],
+    "departureDate": [
+      "10 Jul '25"
+    ],
+    "availability": "beschikbaar",
+    "image": "https://staging.cyclotrack.be/wp-content/uploads/2025/02/IMG_0635-1-1024x768.jpeg",
+    "comfort": "Exclusief",
+    "bikingLevel": "Uitdagend",
+    "technicalBikingLevel": "Sportief"
+  },
+  {
+    "id": 13,
+    "isGuaranteedDeparture": false,
+    "hasEarlyBookingDiscount": true,
+    "days": 13,
+    "price": 3600,
+    "country": "ussssssssssssssssssssss",
+    "type": "gravelbike",
+    "title": "Gravelavontuur langs tempels, thee en olifanten",
+    "description": [
+      "actieve kennismaking met Sri Lanka",
+      "mooie en comfortabele hotels",
+      "afsluiten met safari en strand"
+    ],
+    "departureDate": [
+      "10 Jul '25"
+    ],
+    "availability": "beschikbaar",
+    "image": "https://staging.cyclotrack.be/wp-content/uploads/2025/02/IMG_0635-1-1024x768.jpeg",
+    "comfort": "Exclusief",
+    "bikingLevel": "Uitdagend",
+    "technicalBikingLevel": "Sportief"
+  }
+]
